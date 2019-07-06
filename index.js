@@ -28,15 +28,3 @@ function currentLine(katsDeliLine) {
     } else
     return ('The line is currently:' + deliLine);
 }
-
-/*function currentLine(katsDeliLine) {
-  for (var i = 0; i <= katsDeliLine.length; i++) {
-    if (katsDeliLine.length === 0) {
-      return "The line is currently empty.";
-    }
-    else {
-      var stringCurrentLine =  {};
-      stringCurrentLine[] =
-    }
-  }
-}*/
